@@ -1,8 +1,8 @@
 # Praktikum-13
 # WebScraping
 ```
-NAMA    : DIPCA ANUGRAH
-NIM     : 312210666
+NAMA    : HASBI ASSIDIKI
+NIM     : 312210448
 KELAS   : TI.22.A.4
 ```
 
